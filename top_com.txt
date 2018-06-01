@@ -1,2 +1,6 @@
 #hello friends i am going to talk you about top command in linux.
 # how to use this command and what we get to fire this command.
+#_________$$$$>>>>welcome<<<<$$$$___________
+#Hi my self Santosh i wil teach you Top command.
+1.) top command Defination > Top command allows user to monitor system processes and system resources. it displays the output in two sections.
+
