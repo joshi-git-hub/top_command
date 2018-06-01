@@ -1,0 +1,2 @@
+#hello friends i am going to talk you about top command in linux.
+# how to use this command and what we get to fire this command.
